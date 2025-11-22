@@ -27,22 +27,7 @@ VS Code
 
 ## Estrutura do Projeto
 
-fit-manager/
-├── css/
-├── js/
-├── img/
-├── conexao.php
-├── index.php
-├── clientes/
-│   ├── criar.php
-│   ├── editar.php
-│   ├── excluir.php
-│   └── listar.php
-└── planos/
-    ├── criar.php
-    ├── editar.php
-    ├── excluir.php
-    └── listar.php
+![alt text](image.png)
 
 ## 🎯 Objetivo
 
